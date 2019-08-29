@@ -5,12 +5,7 @@ html{
 .footImg{
   max-width: 47%;
 }
-div#bg-img {
-  background: url(../img/photo_49172_20151116.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-  margin: auto auto;
-}
+
 #bg-img:after {
   content: '';
   position: fixed;
@@ -173,7 +168,7 @@ td#td {
   opacity: .7;
 }  
 .parallax-blog-2 {
-  background: url(../img/blog/1_BPSx-c--z6r7tY29L19ukQ.png) no-repeat;
+  background: url(../img/blog/1_BPSx-c--z6r7tY29L19ukQ.jpg) no-repeat;
   min-height: 500px;
   position: relative;
   background-attachment: fixed;

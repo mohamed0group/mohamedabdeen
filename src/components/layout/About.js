@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import Mabdeen from "../../assets/img/mabdeen.png";
 import {
-    Card, Button, CardImg, CardTitle, CardText,
-    CardSubtitle, CardBody, CardDeck, Row
+    Card, CardImg, CardTitle,  CardBody, CardDeck,
 } from 'reactstrap';
-import Idea from "../../assets/img/howk/idea.png";
+import Idea from "../../assets/img/howk/idea.jpg";
 import Design from "../../assets/img/howk/design.jpg";
 import Devolop from "../../assets/img/howk/devolop.jpg";
 import Concept from "../../assets/img/howk/concept.jpg";
