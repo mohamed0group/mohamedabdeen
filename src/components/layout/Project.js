@@ -22,10 +22,10 @@ class Project extends Component {
                                     <img src={P1} alt="Project" width="100%" />
                                 </a>
                                 <div className="btn-group btn-toolbar mb-3" role="group">
-                                    <a href="#" className="btn-light btn">
+                                    <a href="https://proplanner.netlify.com" className="btn-light btn">
                                         <i className="fas fa-eye"></i> Project Planner
                             </a>
-                                    <a href="#" class="btn-dark btn">
+                                    <a href="https://github.com/mohamed0group/project-planner" class="btn-dark btn">
                                         <i className="fab fa-github"></i> Github
                             </a>
                                 </div>
@@ -45,10 +45,10 @@ class Project extends Component {
                                     <img src={P2} alt="Project" width="100%" />
                                 </a>
                                 <div className="btn-group btn-toolbar mb-3" role="group">
-                                    <a href="#" className="btn-light btn">
+                                    <a href="https://codolong.herokuapp.com" className="btn-light btn">
                                         <i className="fas fa-eye"></i> Codolong
                             </a>
-                                    <a href="#" class="btn-dark btn">
+                                    <a href="https://github.com/mohamed0group/codolong" class="btn-dark btn">
                                         <i className="fab fa-github"></i> Github
                             </a>
                                 </div>
@@ -62,10 +62,10 @@ class Project extends Component {
                                     <img src={P6} alt="Project" width="100%" />
                                 </a>
                                 <div className="btn-group btn-toolbar mb-3" role="group">
-                                    <a href="#" className="btn-light btn">
+                                    <a href="https://altras.herokuapp.com" className="btn-light btn">
                                         <i className="fas fa-eye"></i> Altra
                             </a>
-                                    <a href="#" class="btn-dark btn">
+                                    <a href="https://github.com/mohamed0group/altras" class="btn-dark btn">
                                         <i className="fab fa-github"></i> Github
                             </a>
                                 </div>
@@ -85,10 +85,10 @@ class Project extends Component {
                                     <img src={P7} alt="Project" width="100%" />
                                 </a>
                                 <div className="btn-group btn-toolbar mb-3" role="group">
-                                    <a href="#" className="btn-light btn">
+                                    <a href="/#" className="btn-light btn">
                                         <i className="fas fa-eye"></i> Hot Delivrey
                             </a>
-                                    <a href="#" class="btn-dark btn">
+                                    <a href="/#" class="btn-dark btn">
                                         <i className="fab fa-github"></i> Github
                             </a>
                                 </div>
